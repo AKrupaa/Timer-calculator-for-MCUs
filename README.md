@@ -9,4 +9,4 @@ to plot your timer register configuration.
 
 ### Tested with STM32 microcontrollers
 
-[](images/result.png)
+![](images/result.png)
